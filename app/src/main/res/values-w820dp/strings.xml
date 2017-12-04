@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">BIMBA spotted</string>
+    <string name="share">!!! Podziel się opinią !!! \n!!! share your opinion with me !!!</string>
+    <string name="author">Jacek Akwarski</string>
+    <string name="autor">Autor/Author:</string>
+    <string name="first">Witaj w komunikacji miejskiej</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="search">Wyszukaj</string>
+    <string name="info">info</string>
+    <string name="version">version 1.0.0</string>
+    <string name="option">stań się wykrywalny \n\nBecome visible</string>
+    <string name="option2">znajdź rozmówcę \n\nFind Friend</string>
+    <string name="send">send</string>
+    <string name="title_paired_devices">Starzy Znajomi / Old Friends</string>
+    <string name="title_other_devices">Nowi Znajomi / New Friends</string>
+    <string name="button_scan">scan</string>
+    <string name="option3">wróć do rozmowy \n\nback to the conversation</string>
+    <string name="title_connecting">Connecting…</string>
+    <string name="title_connected_to">Connected to <xliff:g id="device_name">%1$s</xliff:g></string>
+    <string name="title_not_connected">Not connected</string>
+    <string name="bt_not_enabled_leaving">Bluetooth was not enabled. Leaving Bluetooth Chat.</string>
+    <string name="not_connected">You are not connected to a device</string>
+    <string name="scanning">I am looking for Friends…</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="select_device">Choose Friends</string>
+    <string name="none_found">No Friends Found</string>
+    <string name="your_opinion">Your opinion</string>
+    <string name="opinion_send">Send</string>
+
+</resources>

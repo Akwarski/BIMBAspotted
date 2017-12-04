@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fbf706"
+    android:paddingBottom="20sp"
+    android:paddingTop="20sp"
+    tools:context="com.example.jacek.bimbaspotted.AboutActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="#259b00">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/autor"
+        android:textSize="30sp"
+        android:gravity="center|bottom"
+        android:textColor="#fbf706"
+        android:background="#259b00"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="@string/author"
+        android:textSize="35sp"
+        android:gravity="bottom|center"
+        android:textColor="#fbf706"
+        android:id="@+id/textView"
+        android:background="#259b00"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/opinion_send"
+                android:id="@+id/button"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="30dp"
+                android:background="#fbf706"
+                android:layout_gravity="center_horizontal" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/share"
+                android:textSize="25sp"
+                android:gravity="center|bottom"
+                android:textColor="#fbf706"
+                android:background="#259b00"
+                />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</LinearLayout>

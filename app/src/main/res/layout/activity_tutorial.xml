@@ -48,7 +48,7 @@
             android:layout_marginLeft="5dp"
             android:layout_marginTop="5dp"
             android:background="@drawable/custom_button"
-            android:textOff=""
+            android:textOff="Wylaczone"
             android:textOn="" />
 
 
